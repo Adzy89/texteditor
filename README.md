@@ -6,8 +6,6 @@ This is a single-page text editor that runs in a browser and meets the PWA crite
 
 ![gif](/Assets/00-demo.gif)
 
-![screenshot](/Assets/screenshot%201.jpg)
-
 [A deployed version can be viewed here.](https://texteditor-ap.herokuapp.com/)
 
 See the application's GitHub repository [here.](https://github.com/Adzy89/texteditor)
