@@ -1,17 +1,16 @@
 # Just Another Text Editor (JATE)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
   ---
   ## Description
 This is a single-page text editor that runs in a browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application is deployed on Heroku and also functions offline. It has the following interface:
 
-![Screen Shot 2022-06-08 at 5 58 50 AM](https://user-images.githubusercontent.com/94569484/172731519-30d3a87b-6d0b-4804-b514-815a9d4e531c.png)
+![gif](/Assets/00-demo.gif)
 
+![screenshot](/Assets/screenshot%201.jpg)
 
-[A deployed version can be viewed here.](https://murmuring-retreat-46359.herokuapp.com/)
+[A deployed version can be viewed here.](https://texteditor-ap.herokuapp.com/)
 
-See the application's GitHub repository [here.](https://github.com/jbtiglao/JATE)
+See the application's GitHub repository [here.](https://github.com/Adzy89/texteditor)
 
   ---
   ## Table of Contents
@@ -72,20 +71,6 @@ See the application's GitHub repository [here.](https://github.com/jbtiglao/JATE
   
   13. When the user deploys to Heroku, the user has a proper build scripts for a webpack application. 
 
-  ---
-  ## License
-  License used for this project - MIT
-  
-  For more information on the above license and other license types, please see the following websites:  
-  - [Open Source Initiative](https://opensource.org/licenses)
-  - [Choose a License](https://choosealicense.com/)
-
-  ---
-  ## Contributing
-  To contribute to this application: 
-  Please email the author for guidelines.
-
-  ---
   ## Tests
   During development, the application is tested using `localhost`.
 
@@ -98,11 +83,6 @@ See the application's GitHub repository [here.](https://github.com/jbtiglao/JATE
   * [Troubleshooting Node.js Deploys](https://devcenter.heroku.com/articles/troubleshooting-node-deploys)
   * [Stackoverflow](https://stackoverflow.com) for troubleshooting Heroku deployment
 
-  ---
-  ## Author
-  Jane Tiglao
-
-  ---
   ## Questions
   For questions or issues, please contact: 
   - Adam Pilato 
